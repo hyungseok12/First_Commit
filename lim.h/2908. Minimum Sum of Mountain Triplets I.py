@@ -41,7 +41,7 @@ https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 - 시간복잡도를 염두에 두고 풀이하는 연습이 필요하다.
 """
 
-from typing import List
+from utils import List
 from math import inf
 
 
